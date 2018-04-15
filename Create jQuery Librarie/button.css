@@ -1,0 +1,11 @@
+.defaultButton {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.testing {
+  background-color: red;
+  color: blue;
+  padding: 20px;
+}
