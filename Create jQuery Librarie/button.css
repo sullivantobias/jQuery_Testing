@@ -1,11 +1,21 @@
 .defaultButton {
-  background-color: black;
+  background-color: #000000;
   color: white;
   padding: 10px;
 }
 
-.testing {
+.basic {
+  background-color: #ff0000;
+  color: #eff7fc;
+  padding: 20px;
+}
+
+.basicHovering {
   background-color: red;
-  color: blue;
+}
+
+.invertedBasic {
+  background-color: #000305;
+  color: #0094ff;
   padding: 20px;
 }
